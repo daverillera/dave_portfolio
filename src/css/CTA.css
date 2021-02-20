@@ -1,0 +1,75 @@
+.cta_ctr_mn {
+  height: 800px;
+}
+
+.cta_row {
+	margin-top: 20px;
+	display: flex;
+	background-image: url(".././images/dave_cta.png");
+  background-size: cover;
+	background-position:center;  	
+  min-height: 400px;
+}
+
+.cta_row2 {
+  background-image: url(".././images/dr_bkd2.png");
+  background-size: cover;
+  background-position:center;   
+  min-height: 400px;
+  display: flex;
+}
+
+.cta_col1 {
+	text-align: center;
+	flex: 40%;
+	height: inherit;
+	width:95%;
+	margin: auto;
+}
+
+.cta_col2 {
+	padding: 0 1em 0 1em;
+	flex: 60%;
+	width:95%;
+	margin-top: -100px;
+}
+
+.title {
+  padding: 1em 0 0 0;
+  font-size: 78px;
+  color: #ffffff;
+  font-family: sans-serif, "Roboto";
+  text-align: left;
+  font-weight: 600;
+  text-shadow: 3px 3px rgba(0, 0, 0, 0.5);
+  margin-bottom: -10px;
+}
+
+.cta_p {
+  font-size: 20px;
+  font-family: sans-serif, "Roboto";
+  text-align: left;
+  color: #ffffff;
+  line-height: 120%;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+.btn_ctr {
+  text-align: left;
+  
+}
+
+.btn {
+  fon-size: 40px;
+  text-transform: uppercase;
+  font-weight: bold;
+  background-color: #CA2E55;
+  color: #ffffff;
+  text-align: center;
+  border: none;
+  border: solid;
+  border-size: 1px;
+  height:50px;
+  width:150px;
+  border-radius: 5px;
+  }

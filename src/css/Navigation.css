@@ -1,0 +1,33 @@
+.nav_row {
+	display: flex;
+}
+.nav_col1 {
+	flex: 25%;
+}
+
+.nav_col2 {
+	flex: 75%;
+}
+
+.nav_img {
+	float: left;
+	height: 100px;
+}
+
+.nav_ctr {
+	color: #ffffff;
+	text-align: right;
+	padding: 40px 0;
+	overflow: hidden;
+}
+
+.nav_itm {
+	color: #ffffff;
+	padding: 0 2em 2em 2em;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+.nav_bkd {
+	overflow: hidden;
+}

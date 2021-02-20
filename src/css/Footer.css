@@ -1,0 +1,35 @@
+.ftr_row {
+	border-top: solid 2px #ffffff;
+	padding-top: 2em;
+}
+.ftr_p {
+  font-size: 20px;
+  font-family: sans-serif, "Roboto";
+  text-align: left;
+  color: #ffffff;
+  line-height: 150%;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+  width: 18%;
+  margin: auto;
+}
+
+.ftr_btm_bar {
+	border-top: solid 2px #ffffff;
+
+	padding-top: 1em;
+	background-color: #1F0022;
+	height: 50px;
+}
+
+.ftr_nav_ctr {
+	color: #ffffff;
+	width: 80%;
+	margin: auto;
+}
+
+.ftr_nav_itm {
+	color: #ffffff;
+	padding: 2em 2em 0 2em;
+	font-size: 18px;
+	text-decoration: none;
+}

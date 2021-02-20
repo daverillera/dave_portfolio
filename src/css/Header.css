@@ -1,0 +1,10 @@
+.head_ftr_img {
+	background-image: url(".././images/dave_ftr.png");
+  	background-size: cover;
+  	min-height: 600px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	color: white;
+}

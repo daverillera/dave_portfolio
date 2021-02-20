@@ -1,0 +1,49 @@
+.abt_row {
+	background-image: url(".././images/dr_bkd.png");
+  	background-size: cover;
+  	background-position:center;
+  	min-height: 500px;
+  	padding: 2em 0 1em 2em;
+}
+
+.abt_title {
+  padding: 1em 0 0 0;
+  margin-bottom: -10px;
+  font-size: 50px;
+  color: #ffffff;
+  font-family: sans-serif, "Roboto";
+  text-align: left;
+  font-weight: 600;
+  text-shadow: 3px 3px rgba(0, 0, 0, 0.5);
+}
+
+.abt_p {
+  font-size: 20px;
+  font-family: sans-serif, "Roboto";
+  text-align: left;
+  color: #ffffff;
+  line-height: 120%;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+  width: 50%;
+
+}
+
+.abt_btn_ctr {
+  text-align: left;
+  
+}
+
+.abt_btn {
+  fon-size: 40px;
+  text-transform: uppercase;
+  font-weight: bold;
+  background-color: #CA2E55;
+  color: #ffffff;
+  text-align: center;
+  border: none;
+  border: solid;
+  border-size: 1px;
+  height:50px;
+  width:150px;
+  border-radius: 5px;
+  }
